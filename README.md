@@ -191,6 +191,18 @@ Detailed datasets, scripts, releases and technical artifacts are published in de
 
 ---
 
+## NeoMundi links
+
+- Official website: [neomundi.org](https://neomundi.org)
+- ControlTower demo: [controltower.neomundi.io/welcome](https://controltower.neomundi.io/welcome)
+- GitHub organization: [github.com/neomundi-io](https://github.com/neomundi-io)
+- Theoretical Framework (Law E) — FR: [DOI 10.5281/zenodo.19385052](https://doi.org/10.5281/zenodo.19385052)
+- Contact: [contact@neomundi.org](mailto:contact@neomundi.org)
+
+For industrial use cases, runtime measurement, integration or ControlTower-related discussions, please contact NeoMundi directly.
+
+---
+
 ## License
 
 This repository currently uses the Apache-2.0 license.
