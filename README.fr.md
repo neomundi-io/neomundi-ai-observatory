@@ -191,6 +191,18 @@ Les jeux de données détaillés, scripts, releases et artefacts techniques sont
 
 ---
 
+## Liens NeoMundi
+
+- Site officiel : [neomundi.org](https://neomundi.org)
+- Démo ControlTower : [controltower.neomundi.io/welcome](https://controltower.neomundi.io/welcome)
+- Organisation GitHub : [github.com/neomundi-io](https://github.com/neomundi-io)
+- Cadre théorique (Loi E) — FR : [DOI 10.5281/zenodo.19385052](https://doi.org/10.5281/zenodo.19385052)
+- Contact : [contact@neomundi.org](mailto:contact@neomundi.org)
+
+Pour les cas d’usage industriels, la mesure runtime, l’intégration ou les échanges liés à ControlTower, vous pouvez contacter directement NeoMundi.
+
+---
+
 ## Licence
 
 Ce dépôt utilise actuellement la licence Apache-2.0.
