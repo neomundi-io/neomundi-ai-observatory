@@ -224,34 +224,3 @@ Cette référence est utilisée comme garde-fou externe sur les questions de con
 
 Elle ne place pas NeoMundi sous l’autorité de ce framework et ne crée aucune dépendance institutionnelle.
 
-## 13. Accord simple de participation
-
-Pour participer au cycle, chaque contributeur pourra confirmer par email ou formulaire à l’adresse ou via le lien indiqué sur la page officielle de contribution NeoMundi Recherche.
-
-La formule d’acceptation doit toujours être rattachée à la version française de référence. Lorsqu’une traduction est proposée, la formule d’acceptation peut être présentée en version bilingue : langue de compréhension du contributeur + français.
-
-Formule d’acceptation :
-
-> “J’ai lu et compris l’Esprit NeoMundi & cadre de contribution — Observatoire IA, cycle exploratoire 2026 — v1.0, version gelée du 14 juin 2026.
-
-> Je comprends que ma participation est bénévole dans le cadre actuel, qu’elle ne crée pas de promesse de rémunération ou d’opportunité future, que mes contributions formalisées seront reconnues selon leur nature, et que les idées générales discutées dans le cadre de l’Observatoire peuvent circuler et être développées collectivement.
-
-> J’autorise NeoMundi Recherche à reproduire, publier, archiver, citer et traduire mes contributions formalisées dans le cadre de l’Observatoire, à titre non exclusif, non commercial et avec attribution — étant entendu que je conserve la propriété de mes rapports et la liberté de les réutiliser et de les valoriser.
-
-> Je garantis que mes contributions sont originales, que j’en détiens les droits et qu’elles ne portent pas atteinte aux droits de tiers.
-
-> Je comprends que participer au cycle ne me confère pas la qualité de membre de NeoMundi Recherche, ni le droit de m’exprimer ou d’agir en son nom, d’utiliser sa marque ou de l’engager, sauf autorisation écrite.
-
-> Je m’engage à respecter les règles d’attribution, de confidentialité, de coopération et de non-revendication abusive prévues par ce cadre.”
-
-**Nom :**
-
-**Date :**
-
-**Contribution envisagée :**
-
-**Email :**
-
-**Langue de compréhension principale :**
-
-**Accord donné par : email / formulaire / autre moyen écrit**
