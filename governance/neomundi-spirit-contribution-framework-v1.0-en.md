@@ -224,34 +224,4 @@ This reference is used as an external safeguard on matters of contribution, attr
 
 It does not place NeoMundi under the authority of this framework and creates no institutional dependency.
 
-## 13. Simple Participation Agreement
-
-To participate in the cycle, each contributor may confirm by email or form at the address or through the link indicated on the official NeoMundi Recherche contribution page.
-
-The acceptance wording must always be linked to the French reference version. When a translation is provided, the acceptance wording may be presented in a bilingual version: the contributor's language of understanding + French.
-
-Acceptance wording:
-
-> “I have read and understood the NeoMundi Spirit & Contribution Framework - AI Observatory, 2026 exploratory cycle - v1.0, frozen version of 14 June 2026.
-
-> I understand that my participation is voluntary within the current framework; that it creates no promise of remuneration or future opportunity; that my formalized contributions will be recognized according to their nature; and that general ideas discussed within the Observatory may circulate and be developed collectively.
-
-> I authorize NeoMundi Recherche to reproduce, publish, archive, cite, and translate my formalized contributions within the framework of the Observatory, on a non-exclusive, non-commercial basis and with attribution - it being understood that I retain ownership of my reports and the freedom to reuse and valorize them.
-
-> I guarantee that my contributions are original, that I hold the rights to them, and that they do not infringe the rights of third parties.
-
-> I understand that participating in the cycle does not confer membership in NeoMundi Recherche, nor the right to speak or act on its behalf, use its brand, or commit it, unless written authorization is provided.
-
-> I undertake to respect the rules of attribution, confidentiality, cooperation, and non-abusive claims set out in this framework.”
-
-**Name:**
-
-**Date:**
-
-**Planned contribution:**
-
-**Email:**
-
-**Primary language of understanding:**
-
 **Agreement given by: email / form / other written means**
