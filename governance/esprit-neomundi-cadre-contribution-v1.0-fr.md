@@ -10,7 +10,7 @@ L’objectif est simple : mieux observer, mieux mesurer, mieux comprendre les co
 
 Ce cycle est lancé dans un esprit de recherche, de coopération et de construction progressive. Il commence volontairement de manière légère, sobre et pragmatique : démarrer, produire, apprendre, puis structurer davantage si l’initiative grandit.
 
-## 1. Esprit NeoMundi
+## 1. Esprit NeoMundi 
 
 Nous croyons que toute décision commence par une observation.
 
