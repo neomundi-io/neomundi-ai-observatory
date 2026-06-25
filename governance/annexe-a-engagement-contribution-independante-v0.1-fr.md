@@ -1,6 +1,6 @@
 « projet soumis à relecture ».
 
-# Annexe A — Engagement de contribution indépendante
+# Annexe A — Engagement de contribution indépendante 
 
 ## Observatoire IA NeoMundi
 
