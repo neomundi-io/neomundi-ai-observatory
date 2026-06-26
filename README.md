@@ -203,6 +203,32 @@ For industrial use cases, runtime measurement, integration or ControlTower-relat
 
 ---
 
+## Ecosystem & Infrastructure Support
+
+The NeoMundi AI Observatory develops its work through an open ecosystem of technical, research, governance and infrastructure contributors.
+
+### Infrastructure support
+
+The Observatory is supported by sovereign infrastructure partners, including Infomaniak.
+
+<img src="logos/ecosystem/logo_infomaniak.png"
+  alt="Infomaniak"
+  width="150">
+
+### NVIDIA Inception
+
+NeoMundi is a member of the NVIDIA Inception program.
+
+<img src="logos/ecosystem/nvidia-inception-member-badge.png"
+  alt="NeoMundi is a member of the NVIDIA Inception program"
+  width="180">
+
+These relationships support the development and operation of independent AI measurement, auditability and runtime governance capabilities. They do not imply endorsement of the Observatory’s research findings, measurements or interpretations by the organisations named above.
+
+© 2025 NVIDIA, the NVIDIA logo, and NVIDIA Inception are trademarks and/or registered trademarks of NVIDIA Corporation in the U.S. and other countries.
+
+---
+
 ## License
 
 This repository currently uses the Apache-2.0 license.
