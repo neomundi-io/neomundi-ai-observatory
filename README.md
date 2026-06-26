@@ -219,9 +219,9 @@ The Observatory is supported by sovereign infrastructure partners, including Inf
 
 NeoMundi is a member of the NVIDIA Inception program.
 
-<img src="logos/ecosystem/nvidia-inception-member-badge.png"
-  alt="NeoMundi is a member of the NVIDIA Inception program"
-  width="180">
+<img src="https://raw.githubusercontent.com/neomundi-io/neomundi-sandbox/main/nvidia-inception-program-badge-rgb-for-screen.png"
+     alt="NeoMundi is a member of the NVIDIA Inception program"
+     width="180">
 
 These relationships support the development and operation of independent AI measurement, auditability and runtime governance capabilities. They do not imply endorsement of the Observatory’s research findings, measurements or interpretations by the organisations named above.
 
