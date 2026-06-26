@@ -203,6 +203,33 @@ Pour les cas d’usage industriels, la mesure runtime, l’intégration ou les �
 
 ---
 
+## Écosystème & soutien d’infrastructure
+
+L’Observatoire IA NeoMundi développe ses travaux au sein d’un écosystème ouvert de contributeurs techniques, de recherche, de gouvernance et d’infrastructure.
+
+### Soutien d’infrastructure
+
+L’Observatoire est soutenu par des partenaires d’infrastructure souveraine, dont Infomaniak.
+
+<img src="logos/ecosystem/logo_infomaniak.png"
+  alt="Infomaniak"
+  width="150">
+
+### NVIDIA Inception Program
+
+NeoMundi est membre du programme NVIDIA Inception.
+
+<img src="https://raw.githubusercontent.com/neomundi-io/neomundi-sandbox/main/nvidia-inception-program-badge-rgb-for-screen.png"
+     alt="NeoMundi is a member of the NVIDIA Inception program"
+     width="180">
+
+Ces relations soutiennent le développement et l’exploitation de capacités indépendantes de mesure des IA, d’auditabilité et de gouvernance runtime. Elles n’impliquent pas que les organisations citées ci-dessus cautionnent les résultats de recherche, les mesures ou les interprétations de l’Observatoire.
+
+© 2025 NVIDIA, le logo NVIDIA et NVIDIA Inception sont des marques commerciales et/ou des marques déposées de NVIDIA Corporation aux États-Unis et dans d’autres pays.
+
+
+---
+
 ## Licence
 
 Ce dépôt utilise actuellement la licence Apache-2.0.
