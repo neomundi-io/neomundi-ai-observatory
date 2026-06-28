@@ -1,186 +1,205 @@
-## 🌐 Choose your language
+# Observatoire IA NeoMundi
 
-**[🇬🇧 English](README.md)** · **[🇫🇷 Lire la version française](README.fr.md)**
+*Mesurer le comportement des IA dans le temps.*
 
-# Baromètre Hebdomadaire NeoMundi — Baseline publique V1
+## 🌐 Choisissez votre langue
 
-Ce dossier contient la première publication quantitative de référence du Baromètre Hebdomadaire NeoMundi.
+**[🇬🇧 Read the English version](README.md)** · **[🇫🇷 Français](README.fr.md)**
 
-Il s’agit d’une **baseline désidentifiée** : une photographie de référence fixe des comportements runtime observés sur un panel de 12 systèmes d’IA générative, dans des conditions de mesure répétées et contrôlées.
+L’Observatoire IA NeoMundi est une initiative de recherche ouverte consacrée à l’observation, à la mesure et à la documentation du comportement des systèmes d’intelligence artificielle dans des conditions répétées.
 
-Ce n’est ni un rapport éditorial hebdomadaire, ni un classement, ni une certification, ni un benchmark, ni une évaluation globale de la qualité des IA.
+Il s’intéresse notamment à la stabilité, à la variabilité, à la dérive, à la validité factuelle, au coût, à la latence et aux conditions d’observation.
 
-Son objectif est plus précis et plus durable : établir un point de référence stable à partir duquel les évolutions futures des comportements runtime observés pourront être mesurées dans le temps.
+NeoMundi n’a pas vocation à publier des classements ou des proclamations. Son objectif est de produire des mesures, des traces, des méthodes et des éléments de preuve publics qui peuvent être discutés, améliorés et réutilisés.
 
-## La campagne de référence en bref
+## Raison d’être
 
-**12 profils IA désidentifiés**
-**4 questions fixes**
-**100 répétitions par question**
-**3 vagues d’exécution**
-**14 400 observations finalisées**
+Les systèmes d’IA sont de plus en plus utilisés dans des contextes sensibles. Pourtant, leur comportement peut évoluer silencieusement dans le temps, selon les fournisseurs, les prompts, les politiques, les configurations ou les conditions de déploiement.
 
-La Baseline V1 constitue le référentiel initial du Baromètre Hebdomadaire NeoMundi.
+L’Observatoire IA NeoMundi existe pour aider à répondre à des questions simples :
 
-Les futurs Baromètres hebdomadaires pourront être comparés à cette référence afin d’observer si les signaux comportementaux restent stables, varient progressivement ou présentent les signes d’un possible changement de régime.
+* Qu’avons-nous observé ?
+* Dans quelles conditions l’avons-nous observé ?
+* Dans quelle mesure le comportement était-il stable ou variable ?
+* Qu’est-ce qui a changé dans le temps ?
+* Que peut-on mesurer, et qu’est-ce qui doit rester du domaine de l’interprétation ?
 
-## Les quatre questions fixes
+L’Observatoire distingue l’observation de l’interprétation.
 
-La campagne combine quatre conditions de réponse distinctes.
+## Programmes de recherche
 
-### Question 1 — Raisonnement
+L’Observatoire organise actuellement son travail autour de programmes de recherche récurrents.
 
-**Le problème de la batte et de la balle**
+### Cartographie mensuelle des IA
 
-> Une batte et une balle coûtent au total 1,10 €.
-> La batte coûte 1 € de plus que la balle.
-> Combien coûte la balle ?
+Des campagnes de mesure comparatives conçues pour observer le comportement de systèmes d’IA dans des conditions d’observation partagées.
 
-### Question 2 — Explication scientifique
+**Dépôt :** [NeoMundi AI Behavior Cartography](https://github.com/neomundi-io)
 
-**Les saisons sur Terre**
+La cartographie mensuelle porte sur la comparaison entre systèmes dans des conditions contrôlées ou documentées.
 
-> Pourquoi les saisons existent-elles sur Terre ?
-
-### Question 3 — Question conceptuelle ouverte
-
-**Stabilité et vérité**
-
-> Pourquoi une réponse stable produite par une IA n’est-elle pas nécessairement factuellement correcte ?
-
-### Question 4 — Question épistémique ouverte
-
-**Croyances largement admises mais potentiellement fausses**
-
-> Donnez un exemple de croyance largement admise qui pourrait être fausse, et expliquez comment elle pourrait être vérifiée.
-
-Ces questions ont été rejouées dans les mêmes conditions de campagne afin d’observer la stabilité des réponses, les signaux de risque factuel, la cohérence, la variation sémantique, le comportement décisionnel et la variation runtime.
-
-Les questions sont publiques afin que les lecteurs puissent comprendre la nature des tâches observées et reproduire de manière indépendante des conditions d’enquête comparables.
-
-## Ce que cette baseline permet
-
-La baseline fixe des indicateurs récurrents pouvant être comparés dans les Baromètres suivants.
-
-Les observations publiées comprennent notamment :
+Elle peut inclure des mesures relatives à :
 
 * la stabilité ;
-* le signal de risque factuel ;
-* la cohérence ;
-* la variation sémantique ;
-* le comportement décisionnel, notamment `ALLOW`, `FLAG` et `ERROR` ;
-* la variation entre exécutions ;
-* la couverture et la complétude de mesure ;
-* les bandes de latence, lorsqu’elles sont publiées ;
-* `delta_g`, publié comme signal observable avancé de variation runtime.
+* la variabilité ;
+* la validité factuelle ;
+* le coût ;
+* la latence ;
+* la structure des réponses ;
+* les limites de l’observation.
 
-L’objectif n’est pas de déterminer quel système serait « le meilleur ».
+### Baromètre hebdomadaire des IA
 
-L’objectif est de rendre visibles les mouvements comportementaux à travers des observations répétées.
+Des mesures répétées conçues pour détecter les dérives comportementales dans le temps.
 
-Un système peut rester stable tout en présentant des signaux de risque factuel. Un système peut varier sémantiquement sans être factuellement incorrect. Un signal est une observation qui demande une interprétation, et non un verdict.
+**Dépôt :** [NeoMundi Weekly Barometer](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
 
-## Fichiers publics
+Le Baromètre hebdomadaire est consacré au suivi temporel : observer si les systèmes d’IA restent stables, dérivent, changent de régime ou se comportent différemment au fil de cycles de mesure répétés.
 
-* `public_profiles_summary.csv`
-  Un enregistrement quantitatif agrégé par profil désidentifié.
+## Axes de recherche progressifs
 
-* `public_question_profiles.csv`
-  Résultats quantitatifs agrégés par profil et par question.
+Des axes de recherche complémentaires seront introduits progressivement à mesure que l’Observatoire se développera.
 
-* `public_regimes_totals.csv`
-  Répartition des décisions et régimes observés. Ce fichier ne contient pas de bandes de classement artificielles.
+Ils peuvent notamment inclure :
 
-* `public_manifest.json`
-  Métadonnées de publication, provenance de campagne et inventaire des fichiers publics.
+### Question hebdomadaire d’actualité
 
-* `public_exclusions_and_limitations.csv`
-  Champs exclus, frontière de publication et limites d’interprétation.
+Une question publique récurrente liée à l’actualité, conçue pour observer la manière dont les IA répondent à des sujets récents, socialement pertinents ou sensibles au temps.
 
-* `METHODOLOGY.md`
-  Note méthodologique synthétique consacrée à la campagne baseline.
+### Mesures intra-fournisseur
 
-## Frontière d’interprétation
+Des mesures répétées au sein d’un même fournisseur ou d’une même famille de modèles, conçues pour observer la variabilité interne, la cohérence, la dérive et les changements de régime.
 
-Une cellule complète signifie que l’ensemble d’exécutions prévu a été réalisé.
+### Mesures sectorielles verticales
 
-La couverture au niveau de chaque métrique est publiée séparément. Elle peut être inférieure à 100 % lorsqu’une métrique individuelle n’a pas pu être calculée pour toutes les observations.
+Des axes d’observation propres à certains domaines, tels que le droit, la santé, la finance, l’éducation, l’administration publique ou la cybersécurité.
 
-Un score de `0.0` correspond à un zéro mesuré lorsque la taille d’échantillon de la métrique est positive.
+### Revues et audits externes
 
-`not_scored` signifie qu’aucun score valide n’était disponible pour l’observation concernée.
+Des revues indépendantes, des retours méthodologiques, des analyses portées par des contributeurs et des commentaires publics sur les résultats publiés.
 
-`delta_g` est un signal runtime dérivé observable. Sa publication ne révèle ni sa composition interne, ni ses seuils, ni sa logique de pondération, ni les règles de calcul propriétaires du cadre de mesure NeoMundi.
+### Axes expérimentaux complémentaires
 
-Les métriques publiées ne doivent pas être interprétées comme des confirmations indépendantes lorsqu’une dépendance entre elles est documentée dans le release.
+De nouveaux formats d’observation pourront être introduits à mesure que les méthodes, les contributeurs et les jeux de données arriveront à maturité.
 
-## Frontière de publication publique
+Ces axes seront documentés progressivement. Ils ne doivent pas être interprétés comme des affirmations définitives, des certifications ou des classements.
 
-Le Baromètre Hebdomadaire NeoMundi publie des résultats agrégés et désidentifiés afin que les chiffres annoncés, la couverture, les régimes observés et les visualisations puissent être examinés publiquement.
+## Cadre de contribution
 
-La publication publique est volontairement bornée.
+L’Observatoire est lancé avec un cadre de contribution léger pour le cycle exploratoire allant de juin à décembre 2026.
 
-Elle ne constitue pas l’intégralité du dossier de mesure NeoMundi.
+**Version de référence :**
 
-## Ce qui reste dans la frontière privée de mesure
+* [Version française de référence — Esprit NeoMundi & cadre de contribution v1.0](governance/esprit-neomundi-cadre-contribution-v1.0-fr.md)
 
-Selon la campagne et le périmètre de mesure, le dossier d’observation privé peut comprendre :
+**Traductions de courtoisie :**
 
-* des enregistrements de mesure au niveau de chaque exécution, plutôt que de simples agrégats hebdomadaires ;
-* des historiques de répétitions et des observations de continuité ;
-* des signaux de stabilité, de validité, de risque factuel, de variation sémantique et de cohérence au niveau de chaque exécution ;
-* des états de décision, des flags, des erreurs et des diagnostics de complétude ;
-* des familles de prompts, des historiques par prompt et des informations relatives au corpus de test contrôlé ;
-* des artefacts au niveau des réponses et du matériel diagnostique ;
-* la consommation de tokens, les coûts d’exécution et des indicateurs d’efficience économique ;
-* des signaux de latence, de performance runtime et d’effort d’infrastructure ;
-* des indicateurs de densité informationnelle et d’efficience de génération ;
-* des observations relatives à l’économie de tokens ou à l’arrêt anticipé de génération, lorsque cela est applicable ;
-* des identifiants de fournisseurs, de modèles, de routage, d’hébergement et de déploiement ;
-* des identifiants de requêtes, de traces et de corrélation ;
-* des horodatages d’exécution et des informations de continuité runtime ;
-* des payloads API, streaming et diagnostics bruts ;
-* des notes internes de revue, des raisons de gouvernance et des enregistrements d’interprétation contextuelle ;
-* le registre privé reliant les systèmes observés aux identifiants désidentifiés stables `PROFILE-XXXXXX`.
+* [Version anglaise — NeoMundi Spirit & Contribution Framework v1.0](governance/neomundi-spirit-contribution-framework-v1.0-en.md)
+* [Version espagnole — Marco de contribución y espíritu NeoMundi v1.0](governance/marco-de-contribucion-y-espiritu-neomundi-v1.0-es.md)
 
-Ces éléments ne sont pas publiés, car ils pourraient révéler l’identité des systèmes, la conception des prompts, le contenu des réponses, l’architecture opérationnelle, les méthodes de mesure ou des traces runtime confidentielles.
+La version française constitue la version de référence. Les traductions sont proposées afin de faciliter la compréhension et la participation internationale.
 
-## Pourquoi cette distinction compte
+## Contribuer
 
-La baseline publique rend les signaux comportementaux récurrents visibles et comparables.
+NeoMundi Recherche accueille des contributions dans les domaines suivants :
 
-La frontière privée de mesure conserve les éléments de preuve plus profonds nécessaires au rejeu contrôlé, à la revue technique, à l’analyse de coût et d’efficience, à l’évaluation de gouvernance et aux investigations dépendantes du contexte.
+* méthodologie et protocoles ;
+* analyse de données ;
+* revue juridique, éthique et conformité ;
+* rédaction, traduction et pédagogie ;
+* documentation technique et infrastructure ;
+* relations publiques, partenariats et administration ;
+* toute autre contribution utile.
 
-La publication publique est donc conçue pour être examinable sans exposer les systèmes, les traces opérationnelles et les artefacts dont elle est issue.
+Le cycle actuel est exploratoire, bénévole et volontairement limité dans son périmètre.
 
-## Désidentification et risque résiduel de réidentification
+Avant de proposer une contribution, merci de lire le cadre de contribution ci-dessus.
 
-Cette publication est **désidentifiée**. Elle ne prétend pas être irréversiblement anonyme.
+Un formulaire public de contribution sera mis à disposition sur le site officiel de NeoMundi.
 
-Les noms de fournisseurs, les noms de modèles, les endpoints, les prompts, les réponses brutes, les traces détaillées, les horodatages précis d’exécution et le mapping privé des profils ne sont pas publiés.
+## Principe de contribution
 
-Les profils publics utilisent des identifiants opaques stables au format `PROFILE-XXXXXX`.
+Les idées circulent. Les contributions formalisées sont attribuées. Les textes signés sont respectés. Les données sensibles sont protégées. Les archives publiées deviennent stables.
 
-Ces identifiants ne sont pas attribués en fonction d’un classement, d’une performance, d’un fournisseur ou d’un modèle.
+L’Observatoire est construit pour encourager la coopération sans extraction, l’attribution sans captation de l’ego, et la mesure sans proclamation.
 
-Le mapping privé est conservé séparément et n’est inclus ni dans ce dépôt ni dans aucune publication publique.
+## Données et confidentialité
 
-Parce que le protocole expérimental et les familles de questions sont en principe reproductibles, un tiers disposant d’un accès API comparable, de modèles disponibles et de conditions d’exécution similaires pourrait tenter d’inférer l’identité d’un ou plusieurs profils.
+Par défaut, les contributeurs travaillent à partir d’informations publiques, agrégées, anonymisées ou pseudonymisées.
 
-NeoMundi documente donc la réidentification comme un risque résiduel et accepté de la publication.
+L’accès aux informations sensibles n’est pas automatique.
 
-L’objectif n’est pas de revendiquer une anonymisation impossible. Il est d’empêcher l’attribution directe tout en conservant un niveau de transparence méthodologique suffisant pour permettre un examen indépendant.
+Certaines informations peuvent rester restreintes, notamment :
 
-## Ce que cette baseline n’est pas
+* les identités réelles des fournisseurs ;
+* les mappings internes ;
+* les clés API ;
+* les coûts détaillés ;
+* les résultats bruts non publiés ;
+* les informations techniques ou stratégiques.
 
-Cette baseline n’est pas :
+Un accord de confidentialité distinct peut être nécessaire avant tout accès à des informations non publiques.
 
-* un classement de fournisseurs ;
-* un leaderboard de modèles ;
-* une certification de sûreté ;
-* une garantie de vérité factuelle ;
-* une décision juridique, réglementaire ou de conformité ;
-* une autorisation de déploiement ;
-* un substitut à la revue humaine, à la gouvernance ou à une validation propre au domaine concerné.
+## Référence externe de gouvernance
 
-C’est un point de référence public destiné à observer les comportements runtime des IA dans le temps.
+Le cadre de contribution NeoMundi s’inspire en partie de la *Governance Participation Discipline v0.1* et du *Collaborative Participation Framework v0.1* publiés par James Aull / MagicianzCardstock LLC :
+
+* [Governance Participation Discipline](LIEN_A_AJOUTER)
+
+James Aull est membre du comité d’orientation et de vigilance de NeoMundi. Il est le fondateur d’ASRO™ — *AI Systems Reliability Operator*, spécialisé dans les preuves attestées d’états gouvernés, la gouvernance des IA et les cadres d’attestation. Il est basé à Twin Lake, dans le Michigan, aux États-Unis.
+
+Cette référence sert de garde-fou externe sur les principes de contribution, d’attribution, de non-extraction et de limites d’autorité.
+
+Elle ne place pas NeoMundi sous l’autorité de ce cadre et ne crée aucune dépendance institutionnelle.
+
+## Rôle du dépôt
+
+Ce dépôt constitue le point d’entrée public de l’Observatoire IA NeoMundi.
+
+Il contient :
+
+* le cadre de contribution ;
+* les traductions de courtoisie ;
+* les liens vers les programmes de recherche ;
+* les éléments d’accueil des contributeurs ;
+* les documents publics d’orientation.
+
+Les jeux de données détaillés, scripts, releases et artefacts techniques sont publiés dans des dépôts dédiés.
+
+## Liens NeoMundi
+
+* **Site officiel :** [neomundi.org](https://neomundi.org)
+* **Démo ControlTower :** [controltower.neomundi.io/welcome](https://controltower.neomundi.io/welcome)
+* **Organisation GitHub :** [github.com/neomundi-io](https://github.com/neomundi-io)
+* **Cadre théorique (Law E) — FR :** [DOI 10.5281/zenodo.19385052](https://doi.org/10.5281/zenodo.19385052)
+* **Contact :** [contact@neomundi.org](mailto:contact@neomundi.org)
+
+Pour les cas d’usage industriels, la mesure runtime, l’intégration ou les échanges relatifs à ControlTower, merci de contacter directement NeoMundi.
+
+## Écosystème et soutien infrastructurel
+
+L’Observatoire IA NeoMundi développe ses travaux au sein d’un écosystème ouvert de contributeurs techniques, de recherche, de gouvernance et d’infrastructure.
+
+### Soutien infrastructurel
+
+L’Observatoire bénéficie du soutien de partenaires d’infrastructure souveraine, dont Infomaniak.
+
+**Infomaniak**
+
+### NVIDIA Inception
+
+NeoMundi est membre du programme NVIDIA Inception.
+
+**NeoMundi est membre du programme NVIDIA Inception**
+
+Ces relations soutiennent le développement et l’exploitation de capacités indépendantes de mesure des IA, d’auditabilité et de gouvernance runtime.
+
+Elles n’impliquent pas l’approbation, par les organisations citées, des résultats de recherche, des mesures ou des interprétations de l’Observatoire.
+
+© 2025 NVIDIA, le logo NVIDIA et NVIDIA Inception sont des marques commerciales et/ou des marques déposées de NVIDIA Corporation aux États-Unis et dans d’autres pays.
+
+## Licence
+
+Ce dépôt utilise actuellement la licence Apache-2.0.
+
+Certains jeux de données, rapports, traductions ou contributions externes peuvent comporter des mentions complémentaires lorsque cela est nécessaire.
