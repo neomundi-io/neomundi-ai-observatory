@@ -382,6 +382,7 @@ Les jeux de données détaillés, scripts, méthodologies, releases et artefacts
 - **Démonstration ControlTower :** [controltower.neomundi.io/welcome](https://controltower.neomundi.io/welcome)
 - **Organisation GitHub :** [github.com/neomundi-io](https://github.com/neomundi-io)
 - **Cadre théorique — Loi E :** [DOI 10.5281/zenodo.19385052](https://doi.org/10.5281/zenodo.19385052)
+- **De l’observabilité des IA à la métrologie de gouvernance :** [DOI 10.5281/zenodo.21250268](https://doi.org/10.5281/zenodo.21250268)
 - **Contact :** [contact@neomundi.org](mailto:contact@neomundi.org)
 
 Pour les cas d’usage industriels, les mesures runtime, les programmes pilotes, l’interopérabilité ou les échanges liés à ControlTower, veuillez contacter directement NeoMundi.
