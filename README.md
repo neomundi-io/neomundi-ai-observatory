@@ -382,6 +382,7 @@ Detailed datasets, scripts, methodologies, releases and technical artefacts are 
 - **ControlTower demonstration:** [controltower.neomundi.io/welcome](https://controltower.neomundi.io/welcome)
 - **GitHub organisation:** [github.com/neomundi-io](https://github.com/neomundi-io)
 - **Theoretical Framework — Law E:** [DOI 10.5281/zenodo.19385052](https://doi.org/10.5281/zenodo.19385052)
+- **From AI Observability to Governance Metrology:** [DOI 10.5281/zenodo.21250268](https://doi.org/10.5281/zenodo.21250268)
 - **Contact:** [contact@neomundi.org](mailto:contact@neomundi.org)
 
 For industrial use cases, runtime measurement, pilot programmes, interoperability or ControlTower-related discussions, please contact NeoMundi directly.
