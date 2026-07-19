@@ -286,7 +286,11 @@ L’Observatoire fonctionne avec un cadre de contribution léger pour le cycle e
 - [Version arabe — Esprit NeoMundi & cadre de contribution v1.0](./governance/esprit-neomundi-cadre-contribution-v1_0-ar.md)
 - [Version ewe — NeoMundi Contribution Charter EWE v1.0](./governance/NeoMundi_Contribution_Charter_EWE_v1.0.md)
 
-La version française constitue la version de référence. Les traductions sont fournies afin de faciliter la compréhension et la participation internationales.
+La version française constitue la version de référence. Les traductions présentées ici sont des contributions linguistiques réalisées ou relues par des locuteurs natifs engagés auprès de l’Observatoire.
+
+Elles sont publiées comme le symbole d’une infrastructure scientifique ouverte, plurilingue et internationale, dans laquelle la diversité des langues participe à la construction d’un cadre commun.
+
+**Technology is not enough. Language, culture and shared meaning are part of the infrastructure.**
 
 ### Annexe A — Engagement de contribution indépendante
 
