@@ -283,8 +283,17 @@ L’Observatoire fonctionne avec un cadre de contribution léger pour le cycle e
 
 - [Version anglaise — NeoMundi Spirit & Contribution Framework v1.0](./governance/neomundi-spirit-contribution-framework-v1.0-en.md)
 - [Version espagnole — Marco de contribución y espíritu NeoMundi v1.0](./governance/marco-contribucion-espiritu-neomundi-v1.0-es.md)
+- [Version arabe — Esprit NeoMundi & cadre de contribution v1.0](./governance/esprit-neomundi-cadre-contribution-v1_0-ar.md)
+- [Version ewe — NeoMundi Contribution Charter EWE v1.0](./governance/NeoMundi_Contribution_Charter_EWE_v1.0.md)
 
 La version française constitue la version de référence. Les traductions sont fournies afin de faciliter la compréhension et la participation internationales.
+
+### Annexe A — Engagement de contribution indépendante
+
+- [Version française — Engagement de contribution indépendante v0.1](./governance/annexe-a-engagement-contribution-independante-v0.1-fr.md)
+- [English version — Independent Contribution Framework v0.1](./governance/annex-a-independent-contribution-framework-v0.1-en.md)
+
+Cette annexe complète le document « Esprit NeoMundi & cadre de contribution » et précise les modalités applicables aux contributeurs, reviewers, pairs méthodologiques, experts et contributeurs infrastructurels de l’Observatoire IA NeoMundi.
 
 ---
 
