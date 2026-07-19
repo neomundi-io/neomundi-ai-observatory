@@ -273,7 +273,7 @@ The institutional programme develops alongside the public measurement programmes
 
 ## Contribution framework
 
-The Observatory operates with a lightweight contribution framework for the exploratory cycle running from June to December 2026.
+The Observatory operates under a lightweight contribution framework for the exploratory cycle running from June to December 2026.
 
 ### Reference version
 
@@ -283,8 +283,17 @@ The Observatory operates with a lightweight contribution framework for the explo
 
 - [English version — NeoMundi Spirit & Contribution Framework v1.0](./governance/neomundi-spirit-contribution-framework-v1.0-en.md)
 - [Spanish version — Marco de contribución y espíritu NeoMundi v1.0](./governance/marco-contribucion-espiritu-neomundi-v1.0-es.md)
+- [Arabic version — Esprit NeoMundi & cadre de contribution v1.0](./governance/esprit-neomundi-cadre-contribution-v1_0-ar.md)
+- [Ewe version — NeoMundi Contribution Charter EWE v1.0](./governance/NeoMundi_Contribution_Charter_EWE_v1.0.md)
 
-The French version is the reference version. Translations are provided to support international understanding and participation.
+The French version is the reference version. The translations are provided to support international understanding and participation.
+
+### Annex A — Independent contribution framework
+
+- [French version — Engagement de contribution indépendante v0.1](./governance/annexe-a-engagement-contribution-independante-v0.1-fr.md)
+- [English version — Independent Contribution Framework v0.1](./governance/annex-a-independent-contribution-framework-v0.1-en.md)
+
+This annex supplements the “NeoMundi Spirit & Contribution Framework” and defines the conditions applicable to contributors, reviewers, methodological peers, experts and infrastructure contributors participating in the NeoMundi AI Observatory.
 
 ---
 
