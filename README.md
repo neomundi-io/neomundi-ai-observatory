@@ -286,7 +286,11 @@ The Observatory operates under a lightweight contribution framework for the expl
 - [Arabic version — Esprit NeoMundi & cadre de contribution v1.0](./governance/esprit-neomundi-cadre-contribution-v1_0-ar.md)
 - [Ewe version — NeoMundi Contribution Charter EWE v1.0](./governance/NeoMundi_Contribution_Charter_EWE_v1.0.md)
 
-The French version is the reference version. The translations are provided to support international understanding and participation.
+The French version is the reference version. The translations presented here are linguistic contributions produced or reviewed by native speakers engaged with the Observatory.
+
+They are published as a symbol of an open, multilingual and international scientific infrastructure in which linguistic diversity contributes to the construction of a shared framework.
+
+**Technology is not enough. Language, culture and shared meaning are part of the infrastructure.**
 
 ### Annex A — Independent contribution framework
 
