@@ -48,6 +48,16 @@ Experimental governance, data stewardship and contribution framework for NeoMund
 
 ---
 
+### Infrastructure support
+
+The NeoMundi AI Observatory is supported by sovereign infrastructure partners, including Infomaniak.
+
+<img src="logos/ecosystem/logo_infomaniak.png"
+     alt="Infomaniak"
+     width="135">
+
+---
+
 ## Mission
 
 AI systems are increasingly used in consequential environments, yet their behaviour may change silently across time, providers, prompts, policies, configurations, infrastructure or deployment conditions.
