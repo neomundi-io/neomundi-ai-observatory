@@ -48,6 +48,16 @@ Cadre expérimental de gouvernance, de gestion des données et de contribution p
 
 ---
 
+### Soutien infrastructure
+
+L’Observatoire IA NeoMundi est soutenu par des partenaires d’infrastructure souveraine, notamment Infomaniak.
+
+<img src="logos/ecosystem/logo_infomaniak.png"
+     alt="Infomaniak"
+     width="135">
+
+---
+
 ## Mission
 
 Les systèmes d’IA sont de plus en plus utilisés dans des environnements à conséquences importantes, alors que leur comportement peut évoluer silencieusement selon le temps, les fournisseurs, les prompts, les politiques, les configurations, les infrastructures ou les conditions de déploiement.
