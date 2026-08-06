@@ -6,7 +6,7 @@
 
 # NeoMundi AI Observatory
 
-**Measuring AI behaviour over time.**
+## Measuring AI behaviour over time
 
 The NeoMundi AI Observatory is an open research initiative dedicated to observing, measuring and documenting how AI systems behave across repeated and comparable conditions.
 
@@ -26,7 +26,25 @@ NeoMundi does not publish rankings, universal verdicts or model certifications.
 
 Its purpose is to produce measurements, traces, methods and public evidence that can be examined, challenged, improved and reused.
 
-**A signal is not a verdict. Observation must remain distinguishable from interpretation.**
+> **A signal is not a verdict. Observation must remain distinguishable from interpretation.**
+
+---
+
+## Explore the Observatory
+
+The Observatory currently operates two recurring public measurement programmes.
+
+### [View the Weekly AI Barometer →](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
+
+Longitudinal monitoring of stability, semantic variation, factual-risk signals, measurement coverage and behavioural drift across repeated observation periods.
+
+### [Explore the Monthly AI Behaviour Cartography →](https://github.com/neomundi-io/ai-behavior-cartography)
+
+Comparative measurement campaigns across shared or documented observation conditions, without reducing AI systems to a single score or ranking.
+
+### [Explore the Distributed Stations Framework →](https://github.com/neomundi-io/neomundi-distributed-stations)
+
+Experimental governance, data stewardship and contribution framework for NeoMundi’s distributed international measurement and applied-research stations.
 
 ---
 
@@ -68,7 +86,7 @@ Observed signals may indicate variation, instability, factual risk or regime cha
 
 ## Research programmes
 
-The Observatory currently organises its work around two recurring public measurement programmes.
+The Observatory currently organises its public measurement work around two recurring programmes.
 
 ### Weekly AI Barometer
 
@@ -84,7 +102,7 @@ It observes whether AI systems:
 - behave differently from one observation period to another.
 
 **Repository:**  
-[NeoMundi Weekly Barometer](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
+[NeoMundi Weekly AI Barometer](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
 
 The repository includes:
 
@@ -121,7 +139,7 @@ The programme may include measurements related to:
 **Repository:**  
 [NeoMundi AI Behaviour Cartography](https://github.com/neomundi-io/ai-behavior-cartography)
 
-The cartography provides a comparative view, while the Weekly Barometer provides temporal monitoring. Together, they support both cross-system and longitudinal observation.
+The Cartography provides a comparative view, while the Weekly Barometer provides temporal monitoring. Together, they support both cross-system and longitudinal observation.
 
 ---
 
@@ -151,8 +169,6 @@ The Observatory produces evidence and signals. Governance or execution decisions
 ## Progressive research tracks
 
 Additional research tracks may be introduced as the Observatory, datasets and methodologies mature.
-
-These may include:
 
 ### Weekly topical questions
 
@@ -245,6 +261,38 @@ Access to non-public material is not automatic and may require a specific govern
 
 ---
 
+## Experimental international stations
+
+NeoMundi is preparing a distributed network of experimental measurement and applied-research stations.
+
+These stations are intended to:
+
+- conduct local or regional measurement campaigns;
+- reproduce shared protocols;
+- test independent articulations;
+- document context-specific use cases;
+- contribute observations and analyses to the common corpus;
+- connect local infrastructures, researchers and institutions;
+- strengthen the geographical and institutional diversity of the Observatory.
+
+During the experimental phase, a station is:
+
+- a contribution and measurement node;
+- not a subsidiary;
+- not a franchise;
+- not an autonomous legal entity;
+- not an exclusive commercial representative;
+- not authorised to legally bind NeoMundi.
+
+Station autonomy is expected to grow progressively through measurement quality, methodological rigour, continuity of contribution, real-world use and accumulated trust.
+
+Individual station profiles will be published after contributor validation and formal acceptance of the experimental framework.
+
+**Framework repository:**  
+[NeoMundi Distributed Stations](https://github.com/neomundi-io/neomundi-distributed-stations)
+
+---
+
 ## Institutional and standards infrastructure
 
 NeoMundi is progressively developing the institutional, governance and standardisation foundations required to support independent AI metrology over the long term.
@@ -263,9 +311,22 @@ This work is intended to document and strengthen:
 - relationships with external governance systems;
 - the path toward international standardisation of runtime AI metrology.
 
-A dedicated public repository will progressively document this work.
+**Public repository:**  
+[NeoMundi Distributed Stations — Governance, Data and Contribution Framework](https://github.com/neomundi-io/neomundi-distributed-stations)
 
-**Repository:** planned
+The repository documents the experimental governance, data-stewardship, contribution, attribution and progressive-autonomy framework for NeoMundi’s distributed international stations.
+
+It also defines the default principles governing:
+
+- raw-data preservation;
+- shared collaborative workspaces;
+- campaign manifests;
+- component provenance;
+- correction history;
+- publication approval;
+- station reversibility;
+- commercial opportunities;
+- the relationship between local stations and the NeoMundi Hub.
 
 The institutional programme develops alongside the public measurement programmes, but at a different pace. Public measurements establish empirical legitimacy; institutional infrastructure supports continuity, accountability and future standardisation.
 
@@ -290,7 +351,7 @@ The French version is the reference version. The translations presented here are
 
 They are published as a symbol of an open, multilingual and international scientific infrastructure in which linguistic diversity contributes to the construction of a shared framework.
 
-**Technology is not enough. Language, culture and shared meaning are part of the infrastructure.**
+> **Technology is not enough. Language, culture and shared meaning are part of the infrastructure.**
 
 ### Annex A — Independent contribution framework
 
@@ -364,11 +425,12 @@ This repository is the public entry point for the NeoMundi AI Observatory.
 It contains:
 
 - the Observatory’s mission and measurement principles;
-- links to recurring research programmes;
+- direct access to recurring public research programmes;
 - the contribution framework;
 - governance and orientation documents;
 - contributor onboarding material;
 - links to public evidence and dedicated repositories;
+- information about the distributed stations programme;
 - information about the institutional and standards programme.
 
 Detailed datasets, scripts, methodologies, releases and technical artefacts are published in the relevant programme repositories.
@@ -379,6 +441,9 @@ Detailed datasets, scripts, methodologies, releases and technical artefacts are 
 
 - **Official website — English:** [neomundi.org/en/home](https://neomundi.org/en/home)
 - **Official website — French:** [neomundi.org](https://neomundi.org)
+- **Weekly AI Barometer:** [github.com/neomundi-io/NeoMundi-Weekly-Barometer](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
+- **Monthly AI Behaviour Cartography:** [github.com/neomundi-io/ai-behavior-cartography](https://github.com/neomundi-io/ai-behavior-cartography)
+- **Distributed Stations Framework:** [github.com/neomundi-io/neomundi-distributed-stations](https://github.com/neomundi-io/neomundi-distributed-stations)
 - **ControlTower demonstration:** [controltower.neomundi.io/welcome](https://controltower.neomundi.io/welcome)
 - **GitHub organisation:** [github.com/neomundi-io](https://github.com/neomundi-io)
 - **Theoretical Framework — Law E:** [DOI 10.5281/zenodo.19385052](https://doi.org/10.5281/zenodo.19385052)
