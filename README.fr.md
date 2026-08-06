@@ -1,4 +1,4 @@
-## 🌐 Choisir votre langue
+## 🌐 Choisissez votre langue
 
 **[🇬🇧 English](README.md)** · **[🇫🇷 Français](README.fr.md)**
 
@@ -6,9 +6,9 @@
 
 # Observatoire IA NeoMundi
 
-**Mesurer le comportement des IA dans le temps.**
+## Mesurer le comportement des IA dans le temps
 
-L’Observatoire IA NeoMundi est une initiative de recherche ouverte consacrée à l’observation, à la mesure et à la documentation du comportement des systèmes d’intelligence artificielle dans des conditions répétées et comparables.
+L’Observatoire IA NeoMundi est une initiative de recherche ouverte consacrée à l’observation, à la mesure et à la documentation du comportement des systèmes d’IA dans des conditions répétées et comparables.
 
 Il produit des mesures longitudinales, des méthodologies publiques, des jeux de données, des publications analytiques et des éléments de preuve reproductibles portant notamment sur :
 
@@ -17,92 +17,110 @@ Il produit des mesures longitudinales, des méthodologies publiques, des jeux de
 - la dérive comportementale ;
 - les signaux de risque factuel ;
 - la cohérence ;
-- les coûts et la consommation de tokens ;
+- le coût et la consommation de tokens ;
 - la latence ;
 - la couverture de mesure ;
-- les conditions et les limites d’observation.
+- les conditions d’observation et leurs limites.
 
-NeoMundi ne publie ni classements, ni verdicts universels, ni certifications de modèles.
+NeoMundi ne publie ni classement, ni verdict universel, ni certification de modèles.
 
-Son objectif est de produire des mesures, des traces, des méthodes et des preuves publiques pouvant être examinées, discutées, améliorées et réutilisées.
+Sa mission est de produire des mesures, des traces, des méthodes et des éléments de preuve publics pouvant être examinés, contestés, améliorés et réutilisés.
 
-**Un signal n’est pas un verdict. L’observation doit rester distincte de l’interprétation.**
+> **Un signal n’est pas un verdict. L’observation doit rester distincte de l’interprétation.**
+
+---
+
+## Explorer l’Observatoire
+
+L’Observatoire opère actuellement deux programmes publics de mesure récurrents.
+
+### [Voir le Baromètre hebdomadaire des IA →](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
+
+Suivi longitudinal de la stabilité, de la variation sémantique, des signaux de risque factuel, de la couverture de mesure et de la dérive comportementale au fil des périodes d’observation.
+
+### [Explorer la Cartographie mensuelle du comportement des IA →](https://github.com/neomundi-io/ai-behavior-cartography)
+
+Campagnes comparatives menées dans des conditions d’observation partagées ou documentées, sans réduire les systèmes d’IA à un score unique ni à un classement.
+
+### [Explorer le cadre des stations distribuées →](https://github.com/neomundi-io/neomundi-distributed-stations)
+
+Cadre expérimental de gouvernance, de gestion des données et de contribution pour les stations internationales de mesure et de recherche appliquée NeoMundi.
 
 ---
 
 ## Mission
 
-Les systèmes d’IA sont de plus en plus utilisés dans des environnements à conséquences, alors même que leur comportement peut évoluer silencieusement selon le temps, les fournisseurs, les prompts, les politiques, les configurations, les infrastructures ou les conditions de déploiement.
+Les systèmes d’IA sont de plus en plus utilisés dans des environnements à conséquences importantes, alors que leur comportement peut évoluer silencieusement selon le temps, les fournisseurs, les prompts, les politiques, les configurations, les infrastructures ou les conditions de déploiement.
 
-L’Observatoire IA NeoMundi vise à répondre à des questions opérationnelles :
+L’Observatoire IA NeoMundi existe pour aider à répondre à des questions opérationnelles :
 
-- Qu’avons-nous observé ?
-- Dans quelles conditions cette observation a-t-elle été réalisée ?
-- Quel était le niveau de stabilité ou de variabilité du comportement ?
-- Le système a-t-il évolué dans le temps ?
+- Qu’a-t-on observé ?
+- Dans quelles conditions l’a-t-on observé ?
+- Dans quelle mesure le comportement était-il stable ou variable ?
+- Le système a-t-il changé au fil du temps ?
 - Quels signaux peuvent être mesurés ?
 - Quelles conclusions exigent une interprétation contextuelle ?
-- Quelles preuves peuvent soutenir la gouvernance, l’audit et la décision opérationnelle ?
+- Quels éléments de preuve peuvent soutenir la gouvernance, l’audit et la décision opérationnelle ?
 
-L’Observatoire considère le comportement des IA comme un objet de mesure continue, et non comme une propriété fixe déduite d’un benchmark unique.
+L’Observatoire traite le comportement des IA comme un objet de mesure continue, plutôt que comme une propriété fixe déduite d’un benchmark unique.
 
 ---
 
 ## Principes de mesure
 
-L’Observatoire s’appuie sur plusieurs principes fondamentaux :
+L’Observatoire suit plusieurs principes fondamentaux :
 
 - **Observation répétée** plutôt qu’évaluation ponctuelle ;
-- **Mesure longitudinale** plutôt qu’instantané statique ;
+- **Mesure longitudinale** plutôt que photographie statique ;
 - **Conditions comparables** lorsque cela est techniquement possible ;
-- **Transparence des méthodologies et des limites** ;
+- **Méthodologies et limites transparentes** ;
 - **Séparation entre mesure et interprétation** ;
 - **Désidentification des systèmes observés dans les publications publiques** ;
 - **Absence de classement public par défaut** ;
-- **Production de preuves publiques sans divulgation de données opérationnelles protégées** ;
+- **Publication d’éléments de preuve sans exposition des données opérationnelles protégées** ;
 - **Reproductibilité dans des limites explicitement documentées**.
 
-Les signaux observés peuvent indiquer une variation, une instabilité, un risque factuel ou un changement de régime. Ils n’établissent pas, à eux seuls, la qualité globale, la sécurité, la conformité ou l’adéquation d’un système à un cas d’usage particulier.
+Les signaux observés peuvent indiquer une variation, une instabilité, un risque factuel ou un changement de régime. Ils n’établissent pas à eux seuls la qualité globale, la sécurité, la conformité ou l’adéquation d’un modèle à un cas d’usage donné.
 
 ---
 
 ## Programmes de recherche
 
-L’Observatoire organise actuellement ses travaux autour de deux programmes publics de mesure récurrents.
+L’Observatoire organise actuellement ses travaux publics autour de deux programmes récurrents.
 
-### Baromètre IA hebdomadaire
+### Baromètre hebdomadaire des IA
 
-Le Baromètre IA hebdomadaire réalise des mesures répétées destinées à détecter les variations comportementales et les dérives dans le temps.
+Le Baromètre hebdomadaire réalise des mesures répétées conçues pour détecter les variations comportementales et les dérives dans le temps.
 
 Il observe notamment si les systèmes d’IA :
 
-- restent stables lors d’exécutions répétées ;
+- restent stables au fil d’exécutions répétées ;
 - changent de régime de réponse ;
-- présentent des variations sémantiques ;
+- présentent une variation sémantique ;
 - produisent des signaux de risque factuel ;
-- connaissent des variations de couverture de mesure ;
+- montrent des variations de couverture de mesure ;
 - se comportent différemment d’une période d’observation à l’autre.
 
 **Dépôt :**  
-[NeoMundi Weekly Barometer](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
+[NeoMundi Weekly AI Barometer](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
 
 Le dépôt comprend notamment :
 
 - la méthodologie publique ;
 - la baseline de référence ;
-- les releases hebdomadaires ;
+- les publications hebdomadaires ;
 - les jeux de données agrégés ;
 - les définitions des métriques ;
-- les limites d’interprétation ;
-- les manifestes de publication et les informations de provenance.
+- les frontières d’interprétation ;
+- les manifests de publication et les informations de provenance.
 
 ---
 
 ### Cartographie mensuelle du comportement des IA
 
-La Cartographie mensuelle du comportement des IA réalise des campagnes de mesure comparatives dans des conditions d’observation communes ou documentées.
+La Cartographie mensuelle réalise des campagnes comparatives dans des conditions d’observation partagées ou documentées.
 
-Elle vise à cartographier les différences entre systèmes d’IA sans réduire les résultats à un score unique ou à un classement.
+Elle vise à cartographier les différences entre systèmes d’IA sans réduire les résultats à un score unique ni à un classement.
 
 Le programme peut inclure des mesures relatives à :
 
@@ -111,7 +129,7 @@ Le programme peut inclure des mesures relatives à :
 - la validité factuelle ;
 - l’accord entre méthodes d’évaluation ;
 - la cohérence ;
-- les coûts ;
+- le coût ;
 - la consommation de tokens ;
 - la latence ;
 - les régimes comportementaux ;
@@ -121,7 +139,7 @@ Le programme peut inclure des mesures relatives à :
 **Dépôt :**  
 [NeoMundi AI Behaviour Cartography](https://github.com/neomundi-io/ai-behavior-cartography)
 
-La Cartographie fournit une vision comparative, tandis que le Baromètre hebdomadaire assure le suivi temporel. Ensemble, ils permettent une observation à la fois transversale et longitudinale.
+La Cartographie fournit une vue comparative, tandis que le Baromètre apporte un suivi temporel. Ensemble, ils soutiennent à la fois l’observation inter-systèmes et l’analyse longitudinale.
 
 ---
 
@@ -133,38 +151,36 @@ L’Observatoire structure progressivement ses travaux publics autour de cinq fo
    Capturer le comportement des IA dans des conditions d’exécution documentées.
 
 2. **Production de signaux comportementaux**  
-   Mesurer la stabilité, la variation, la cohérence, les signaux de risque factuel, la latence, les coûts et les régimes comportementaux.
+   Mesurer la stabilité, la variation, la cohérence, les signaux de risque factuel, la latence, le coût et les régimes comportementaux.
 
 3. **Analyse longitudinale**  
    Comparer les mesures entre exécutions répétées et périodes d’observation.
 
-4. **Production de preuves publiques**  
-   Publier des données agrégées, des méthodologies, des manifestes, des analyses et des informations de reproductibilité.
+4. **Production d’éléments de preuve publics**  
+   Publier des données agrégées, des méthodologies, des manifests, des rapports analytiques et des informations de reproductibilité.
 
-5. **Interopérabilité avec la gouvernance**  
-   Rendre les mesures runtime exploitables par les systèmes d’audit, de conformité, d’observabilité, de gouvernance et de contrôle d’exécution.
+5. **Interopérabilité avec les systèmes de gouvernance**  
+   Rendre les mesures runtime utilisables par des systèmes d’audit, de conformité, d’observabilité, de gouvernance ou de contrôle d’exécution.
 
-L’Observatoire produit des preuves et des signaux. Les décisions de gouvernance ou d’exécution restent sous la responsabilité des systèmes et des organisations qui les utilisent.
+L’Observatoire produit des mesures et des éléments de preuve. Les décisions de gouvernance ou d’exécution restent sous la responsabilité des systèmes et des organisations qui les consomment.
 
 ---
 
 ## Axes de recherche progressifs
 
-Des axes de recherche complémentaires pourront être introduits à mesure que l’Observatoire, les jeux de données et les méthodologies mûrissent.
-
-Ils peuvent notamment inclure :
+Des axes complémentaires peuvent être introduits à mesure que l’Observatoire, les datasets et les méthodologies gagnent en maturité.
 
 ### Questions thématiques hebdomadaires
 
-Des questions publiques récurrentes liées à l’actualité, destinées à observer la manière dont les systèmes d’IA répondent à des sujets récents, socialement pertinents ou sensibles au temps.
+Questions publiques récurrentes liées à l’actualité, conçues pour observer la manière dont les systèmes d’IA répondent à des sujets récents, socialement pertinents ou sensibles au temps.
 
 ### Mesures intra-fournisseur
 
-Des mesures répétées au sein d’un même fournisseur ou d’une même famille de modèles, destinées à observer la variabilité interne, la cohérence, la dérive et les changements de régime.
+Mesures répétées au sein d’un même fournisseur ou d’une même famille de modèles, afin d’observer la variabilité interne, la cohérence, la dérive et les changements de régime.
 
-### Mesures sectorielles verticales
+### Mesures sectorielles
 
-Des programmes d’observation spécifiques à des secteurs tels que :
+Programmes d’observation spécifiques à des domaines tels que :
 
 - le droit ;
 - la santé ;
@@ -177,29 +193,29 @@ Des programmes d’observation spécifiques à des secteurs tels que :
 
 ### Revues externes et analyses indépendantes
 
-Des revues méthodologiques, analyses menées par des contributeurs, audits externes et commentaires publics sur les résultats publiés.
+Revues méthodologiques, analyses portées par des contributeurs, audits externes et commentaires publics sur les résultats publiés.
 
 ### Protocoles expérimentaux
 
-De nouveaux formats d’observation, jeux de données et méthodes analytiques introduits dans des conditions expérimentales clairement documentées.
+Nouveaux formats d’observation, datasets et méthodes analytiques introduits dans des conditions expérimentales clairement documentées.
 
-Ces axes ne doivent pas être interprétés comme des certifications, des classements ou des conclusions définitives, sauf indication explicite d’une méthodologie dédiée.
+Ces axes ne doivent pas être interprétés comme des certifications, des classements ou des conclusions définitives, sauf si une méthodologie explicite l’établit.
 
 ---
 
-## Preuves publiques et reproductibilité
+## Éléments de preuve publics et reproductibilité
 
-L’Observatoire publie des éléments de preuve publics dans ses dépôts dédiés et ses publications officielles.
+L’Observatoire publie ses éléments de preuve dans des dépôts dédiés et au sein de publications officielles.
 
-Selon les programmes, les artefacts publics peuvent inclure :
+Selon le programme, les artefacts publics peuvent inclure :
 
 - des jeux de données agrégés ;
-- des synthèses de release ;
+- des synthèses de publication ;
 - des contrats de mesure ;
 - des documents méthodologiques ;
-- des campagnes baseline ;
-- des manifestes de fichiers ;
-- des empreintes d’intégrité ;
+- des campagnes de baseline ;
+- des manifests de fichiers ;
+- des hashes d’intégrité ;
 - des rapports analytiques ;
 - des cartographies visuelles ;
 - des comparaisons longitudinales ;
@@ -210,12 +226,12 @@ Les publications publiques sont conçues pour permettre :
 - des contrôles de cohérence interne ;
 - une revue méthodologique ;
 - des analyses indépendantes ;
-- des comparaisons entre releases ;
+- des comparaisons entre publications ;
 - une discussion publique des signaux observés.
 
-La reproduction complète depuis les sources peut nécessiter l’accès à des exports protégés, à la configuration de l’infrastructure ou à des données opérationnelles restreintes.
+Une reproduction complète à partir des sources peut nécessiter l’accès à des exports de campagne protégés, à des configurations d’infrastructure ou à des données opérationnelles restreintes.
 
-Chaque dépôt documente ses propres limites de reproductibilité.
+Chaque dépôt documente sa propre frontière de reproductibilité.
 
 ---
 
@@ -223,57 +239,102 @@ Chaque dépôt documente ses propres limites de reproductibilité.
 
 Les publications publiques de l’Observatoire utilisent par défaut des informations agrégées et désidentifiées.
 
-Les systèmes observés peuvent être représentés par des identifiants opaques stables. Ces identifiants publics ne sont pas attribués selon la performance, le nom du fournisseur, le nom du modèle, l’ordre alphabétique, le score ou le classement.
+Les systèmes observés peuvent être représentés au moyen d’identifiants opaques et stables. Ces identifiants publics ne sont pas attribués en fonction des performances, du nom du fournisseur, du nom du modèle, de l’ordre alphabétique, d’un score ou d’un rang.
 
 Certaines informations peuvent rester restreintes, notamment :
 
-- les correspondances entre fournisseurs et modèles ;
+- les correspondances fournisseur–modèle ;
 - les prompts ou identifiants de prompts ;
 - les réponses complètes des modèles ;
 - les identifiants de requête et de trace ;
 - les payloads bruts ;
 - les horodatages par réponse ;
-- les clés API et identifiants d’accès ;
+- les clés API et identifiants ;
 - les coûts privés détaillés ;
 - les résultats non publiés ;
 - les informations de débogage ;
-- les informations stratégiques ou commercialement sensibles.
+- les éléments stratégiques ou commercialement sensibles.
 
-L’existence d’un registre privé de correspondance implique que les publications publiques doivent être décrites comme **désidentifiées**, et non comme irréversiblement anonymes.
+L’existence d’un registre privé de correspondance implique que les publications doivent être décrites comme **désidentifiées**, et non comme irréversiblement anonymes.
 
 L’accès aux éléments non publics n’est pas automatique et peut nécessiter un cadre spécifique de gouvernance, de recherche ou de confidentialité.
 
 ---
 
-## Infrastructure institutionnelle et de standardisation
+## Stations internationales expérimentales
 
-NeoMundi développe progressivement les fondations institutionnelles, de gouvernance et de standardisation nécessaires au développement durable d’une métrologie indépendante des IA.
+NeoMundi prépare un réseau distribué de stations expérimentales de mesure et de recherche appliquée.
+
+Ces stations ont vocation à :
+
+- conduire des campagnes de mesure locales ou régionales ;
+- reproduire des protocoles communs ;
+- tester des articulations indépendantes ;
+- documenter des cas d’usage liés à leur contexte ;
+- contribuer au corpus commun par des observations et des analyses ;
+- relier des infrastructures, chercheurs et institutions locales ;
+- renforcer la diversité géographique et institutionnelle de l’Observatoire.
+
+Pendant la phase expérimentale, une station est :
+
+- un nœud de contribution et de mesure ;
+- ni une filiale ;
+- ni une franchise ;
+- ni une entité juridique autonome ;
+- ni un représentant commercial exclusif ;
+- ni une structure autorisée à engager juridiquement NeoMundi.
+
+L’autonomie des stations a vocation à se construire progressivement par la qualité des mesures, la rigueur méthodologique, la continuité des contributions, les usages réels et la confiance accumulée.
+
+Les fiches individuelles des stations seront publiées après validation des contributeurs et acceptation formelle du cadre expérimental.
+
+**Dépôt du cadre :**  
+[NeoMundi Distributed Stations](https://github.com/neomundi-io/neomundi-distributed-stations)
+
+---
+
+## Infrastructure institutionnelle et normalisation
+
+NeoMundi développe progressivement les fondations institutionnelles, de gouvernance et de normalisation nécessaires au soutien durable d’une métrologie indépendante des IA.
 
 Ce travail vise notamment à documenter et renforcer :
 
 - l’architecture institutionnelle de l’Observatoire ;
 - l’indépendance scientifique et méthodologique ;
-- la gestion et la conservation des preuves publiques ;
+- la gestion des éléments de preuve publics ;
 - les règles de contribution et d’attribution ;
 - la gestion des conflits d’intérêts ;
 - les processus de révision méthodologique ;
 - la doctrine de publication et d’archivage ;
-- les principes de propriété intellectuelle et de licences ;
+- les principes de propriété intellectuelle et de licence ;
 - les exigences d’interopérabilité ;
 - les relations avec les systèmes externes de gouvernance ;
-- la trajectoire vers une standardisation internationale de la métrologie runtime des IA.
+- la trajectoire vers une normalisation internationale de la métrologie runtime des IA.
 
-Un dépôt public dédié documentera progressivement ce travail.
+**Dépôt public :**  
+[NeoMundi Distributed Stations — Cadre de gouvernance, de données et de contribution](https://github.com/neomundi-io/neomundi-distributed-stations)
 
-**Dépôt :** prévu
+Le dépôt documente le cadre expérimental de gouvernance, de gestion des données, de contribution, d’attribution et d’autonomie progressive des stations internationales distribuées NeoMundi.
 
-Le programme institutionnel se développe parallèlement aux programmes publics de mesure, mais selon un rythme différent. Les mesures publiques établissent la légitimité empirique ; l’infrastructure institutionnelle soutient la continuité, la redevabilité et la future standardisation.
+Il définit également les principes par défaut concernant :
+
+- la conservation des données brutes ;
+- les espaces collaboratifs partagés ;
+- les manifests de campagne ;
+- la provenance des composants ;
+- l’historique des corrections ;
+- la validation des publications ;
+- la réversibilité des stations ;
+- les opportunités commerciales ;
+- la relation entre les stations locales et le hub NeoMundi.
+
+Le programme institutionnel évolue parallèlement aux programmes publics de mesure, mais à un rythme différent. Les mesures publiques construisent la légitimité empirique ; l’infrastructure institutionnelle soutient la continuité, la responsabilité et la future normalisation.
 
 ---
 
 ## Cadre de contribution
 
-L’Observatoire fonctionne avec un cadre de contribution léger pour le cycle exploratoire de juin à décembre 2026.
+L’Observatoire fonctionne selon un cadre de contribution léger pour le cycle exploratoire allant de juin à décembre 2026.
 
 ### Version de référence
 
@@ -286,40 +347,40 @@ L’Observatoire fonctionne avec un cadre de contribution léger pour le cycle e
 - [Version arabe — Esprit NeoMundi & cadre de contribution v1.0](./governance/esprit-neomundi-cadre-contribution-v1_0-ar.md)
 - [Version ewe — NeoMundi Contribution Charter EWE v1.0](./governance/NeoMundi_Contribution_Charter_EWE_v1.0.md)
 
-La version française constitue la version de référence. Les traductions présentées ici sont des contributions linguistiques réalisées ou relues par des locuteurs natifs engagés auprès de l’Observatoire.
+La version française est la version de référence. Les traductions présentées ici sont des contributions linguistiques produites ou relues par des locuteurs natifs engagés auprès de l’Observatoire.
 
-Elles sont publiées comme le symbole d’une infrastructure scientifique ouverte, plurilingue et internationale, dans laquelle la diversité des langues participe à la construction d’un cadre commun.
+Elles sont publiées comme le symbole d’une infrastructure scientifique ouverte, multilingue et internationale, dans laquelle la diversité linguistique contribue à la construction d’un cadre commun.
 
-**Technology is not enough. Language, culture and shared meaning are part of the infrastructure.**
+> **La technologie ne suffit pas. La langue, la culture et le sens partagé font partie de l’infrastructure.**
 
-### Annexe A — Engagement de contribution indépendante
+### Annexe A — Cadre de contribution indépendante
 
 - [Version française — Engagement de contribution indépendante v0.1](./governance/annexe-a-engagement-contribution-independante-v0.1-fr.md)
-- [English version — Independent Contribution Framework v0.1](./governance/annex-a-independent-contribution-framework-v0.1-en.md)
+- [Version anglaise — Independent Contribution Framework v0.1](./governance/annex-a-independent-contribution-framework-v0.1-en.md)
 
-Cette annexe complète le document « Esprit NeoMundi & cadre de contribution » et précise les modalités applicables aux contributeurs, reviewers, pairs méthodologiques, experts et contributeurs infrastructurels de l’Observatoire IA NeoMundi.
+Cette annexe complète « Esprit NeoMundi & cadre de contribution » et définit les conditions applicables aux contributeurs, relecteurs, pairs méthodologiques, experts et contributeurs infrastructure participant à l’Observatoire IA NeoMundi.
 
 ---
 
 ## Contribuer
 
-NeoMundi Recherche accueille les contributions liées à :
+NeoMundi Recherche accueille des contributions portant notamment sur :
 
-- la conception méthodologique et protocolaire ;
+- la méthodologie et la conception de protocoles ;
 - l’analyse de données ;
 - la métrologie ;
 - la gouvernance des IA ;
-- la revue juridique, éthique et de conformité ;
+- la revue juridique, éthique et réglementaire ;
 - la revue scientifique ;
 - la documentation technique ;
-- l’infrastructure et l’interopérabilité ;
+- les infrastructures et l’interopérabilité ;
 - la rédaction, la traduction et la pédagogie ;
-- la recherche d’intérêt public ;
+- la recherche d’intérêt général ;
 - les partenariats et le développement institutionnel.
 
 Le cycle actuel de contribution est exploratoire, bénévole et limité dans son périmètre.
 
-Avant de proposer une contribution, veuillez consulter le cadre de contribution.
+Avant de proposer une contribution, merci de consulter le cadre de contribution.
 
 Un formulaire public de contribution sera mis à disposition sur le site officiel de NeoMundi.
 
@@ -345,57 +406,61 @@ L’Observatoire est conçu pour encourager :
 
 ## Référence externe de gouvernance
 
-Le cadre de contribution NeoMundi s’inspire en partie de la Governance Participation Discipline v0.1 et du Collaborative Participation Framework v0.1 publiés par James Aull / MagicianzCardstock LLC.
+Le cadre de contribution NeoMundi s’est en partie inspiré de la Governance Participation Discipline v0.1 et du Collaborative Participation Framework v0.1 publiés par James Aull / MagicianzCardstock LLC.
 
 [Governance Participation Discipline](https://github.com/magicianzcardstockllc/governance-participation-discipline)
 
-Cette référence externe fournit un garde-fou utile concernant la contribution, l’attribution, la non-extraction et les limites d’autorité.
+Cette référence externe constitue un garde-fou utile en matière de contribution, d’attribution, de non-extraction et de limites d’autorité.
 
 Elle ne place pas NeoMundi sous l’autorité de ce cadre et ne crée aucune dépendance institutionnelle.
 
-Des informations complémentaires concernant les références externes de gouvernance et les contributeurs peuvent être documentées dans le répertoire [`governance`](./governance/).
+Des informations complémentaires sur les références externes de gouvernance et les contributeurs peuvent être documentées dans le répertoire [`governance`](./governance/).
 
 ---
 
-## Rôle de ce dépôt
+## Rôle du dépôt
 
 Ce dépôt constitue le point d’entrée public de l’Observatoire IA NeoMundi.
 
 Il contient :
 
 - la mission et les principes de mesure de l’Observatoire ;
-- les liens vers les programmes de recherche récurrents ;
+- des accès directs aux programmes publics récurrents ;
 - le cadre de contribution ;
 - les documents de gouvernance et d’orientation ;
-- les ressources d’intégration des contributeurs ;
-- les liens vers les preuves publiques et les dépôts dédiés ;
-- les informations relatives au programme institutionnel et de standardisation.
+- les supports d’intégration des contributeurs ;
+- les liens vers les éléments de preuve publics et les dépôts dédiés ;
+- les informations relatives au programme de stations distribuées ;
+- les informations relatives au programme institutionnel et de normalisation.
 
-Les jeux de données détaillés, scripts, méthodologies, releases et artefacts techniques sont publiés dans les dépôts correspondant à chaque programme.
+Les datasets détaillés, scripts, méthodologies, publications et artefacts techniques sont publiés dans les dépôts propres à chaque programme.
 
 ---
 
 ## Liens NeoMundi
 
-- **Site officiel — Français :** [neomundi.org](https://neomundi.org)
-- **Site officiel — English :** [neomundi.org/en/home](https://neomundi.org/en/home)
+- **Site officiel — français :** [neomundi.org](https://neomundi.org)
+- **Site officiel — anglais :** [neomundi.org/en/home](https://neomundi.org/en/home)
+- **Baromètre hebdomadaire des IA :** [github.com/neomundi-io/NeoMundi-Weekly-Barometer](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
+- **Cartographie mensuelle du comportement des IA :** [github.com/neomundi-io/ai-behavior-cartography](https://github.com/neomundi-io/ai-behavior-cartography)
+- **Cadre des stations distribuées :** [github.com/neomundi-io/neomundi-distributed-stations](https://github.com/neomundi-io/neomundi-distributed-stations)
 - **Démonstration ControlTower :** [controltower.neomundi.io/welcome](https://controltower.neomundi.io/welcome)
 - **Organisation GitHub :** [github.com/neomundi-io](https://github.com/neomundi-io)
-- **Cadre théorique — Loi E :** [DOI 10.5281/zenodo.19385052](https://doi.org/10.5281/zenodo.19385052)
-- **De l’observabilité des IA à la métrologie de gouvernance :** [DOI 10.5281/zenodo.21250268](https://doi.org/10.5281/zenodo.21250268)
+- **Cadre théorique — Law E :** [DOI 10.5281/zenodo.19385052](https://doi.org/10.5281/zenodo.19385052)
+- **From AI Observability to Governance Metrology :** [DOI 10.5281/zenodo.21250268](https://doi.org/10.5281/zenodo.21250268)
 - **Contact :** [contact@neomundi.org](mailto:contact@neomundi.org)
 
-Pour les cas d’usage industriels, les mesures runtime, les programmes pilotes, l’interopérabilité ou les échanges liés à ControlTower, veuillez contacter directement NeoMundi.
+Pour les cas d’usage industriels, la mesure runtime, les programmes pilotes, l’interopérabilité ou les échanges relatifs à ControlTower, merci de contacter directement NeoMundi.
 
 ---
 
-## Écosystème et soutien à l’infrastructure
+## Écosystème et soutien infrastructure
 
-L’Observatoire IA NeoMundi développe ses travaux au sein d’un écosystème ouvert de contributeurs techniques, scientifiques, institutionnels et spécialisés en gouvernance.
+L’Observatoire IA NeoMundi développe ses travaux au sein d’un écosystème ouvert de contributeurs techniques, scientifiques, institutionnels et infrastructure.
 
-### Soutien à l’infrastructure
+### Soutien infrastructure
 
-L’Observatoire bénéficie du soutien de partenaires d’infrastructure souveraine, dont Infomaniak.
+L’Observatoire est soutenu par des partenaires d’infrastructure souveraine, notamment Infomaniak.
 
 <img src="logos/ecosystem/logo_infomaniak.png"
      alt="Infomaniak"
@@ -406,14 +471,14 @@ L’Observatoire bénéficie du soutien de partenaires d’infrastructure souver
 NeoMundi est membre du programme NVIDIA Inception.
 
 <img src="https://raw.githubusercontent.com/neomundi-io/neomundi-sandbox/main/nvidia-inception-program-badge-rgb-for-screen.png"
-     alt="NeoMundi est membre du programme NVIDIA Inception"
+     alt="NeoMundi is a member of the NVIDIA Inception program"
      width="180">
 
 Ces relations soutiennent le développement et l’exploitation de capacités indépendantes de mesure des IA, d’auditabilité et de gouvernance runtime.
 
 Elles n’impliquent aucune approbation des résultats de recherche, des mesures, des méthodologies ou des interprétations de l’Observatoire par les organisations mentionnées.
 
-© 2025 NVIDIA, le logo NVIDIA et NVIDIA Inception sont des marques commerciales et/ou des marques déposées de NVIDIA Corporation aux États-Unis et dans d’autres pays.
+© 2025 NVIDIA, le logo NVIDIA et NVIDIA Inception sont des marques commerciales ou déposées de NVIDIA Corporation aux États-Unis et dans d’autres pays.
 
 ---
 
@@ -421,4 +486,4 @@ Elles n’impliquent aucune approbation des résultats de recherche, des mesures
 
 Ce dépôt utilise actuellement la [licence Apache 2.0](LICENSE).
 
-Certains jeux de données, rapports, traductions, composants logiciels ou contributions externes peuvent comporter des licences ou mentions complémentaires lorsque cela est nécessaire.
+Certains jeux de données, rapports, traductions, composants logiciels ou contributions externes peuvent être soumis à des licences ou mentions complémentaires lorsque cela est nécessaire.
