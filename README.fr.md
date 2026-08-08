@@ -1,14 +1,14 @@
 ## 🌐 Choisissez votre langue
 
-**[🇬🇧 English](README.md)** · **[🇫🇷 Français](README.fr.md)**
+**[🇫🇷 Français](README.fr.md)** · **[🇬🇧 Read the English version](README.md)**
 
 ---
 
-# Observatoire IA NeoMundi
+# Observatoire des IA NeoMundi
 
 ## Mesurer le comportement des IA dans le temps
 
-L’Observatoire IA NeoMundi est une initiative de recherche ouverte consacrée à l’observation, à la mesure et à la documentation du comportement des systèmes d’IA dans des conditions répétées et comparables.
+L’Observatoire des IA NeoMundi est une initiative de recherche ouverte consacrée à l’observation, à la mesure et à la documentation du comportement des systèmes d’IA dans des conditions répétées et comparables.
 
 Il produit des mesures longitudinales, des méthodologies publiques, des jeux de données, des publications analytiques et des éléments de preuve reproductibles portant notamment sur :
 
@@ -17,14 +17,14 @@ Il produit des mesures longitudinales, des méthodologies publiques, des jeux de
 - la dérive comportementale ;
 - les signaux de risque factuel ;
 - la cohérence ;
-- le coût et la consommation de tokens ;
+- les coûts et la consommation de tokens ;
 - la latence ;
 - la couverture de mesure ;
-- les conditions d’observation et leurs limites.
+- les conditions et limites d’observation.
 
-NeoMundi ne publie ni classement, ni verdict universel, ni certification de modèles.
+NeoMundi ne publie ni classement, ni verdict universel, ni certification des modèles.
 
-Sa mission est de produire des mesures, des traces, des méthodes et des éléments de preuve publics pouvant être examinés, contestés, améliorés et réutilisés.
+Son objectif est de produire des mesures, des traces, des méthodes et des éléments de preuve publics pouvant être examinés, contestés, améliorés et réutilisés.
 
 > **Un signal n’est pas un verdict. L’observation doit rester distincte de l’interprétation.**
 
@@ -36,15 +36,27 @@ L’Observatoire opère actuellement deux programmes publics de mesure récurren
 
 ### [Voir le Baromètre hebdomadaire des IA →](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
 
-Suivi longitudinal de la stabilité, de la variation sémantique, des signaux de risque factuel, de la couverture de mesure et de la dérive comportementale au fil des périodes d’observation.
+Suivi longitudinal de la stabilité, de la variation sémantique, des signaux de risque factuel, de la couverture de mesure et de la dérive comportementale au fil de périodes d’observation répétées.
 
 ### [Explorer la Cartographie mensuelle du comportement des IA →](https://github.com/neomundi-io/ai-behavior-cartography)
 
-Campagnes comparatives menées dans des conditions d’observation partagées ou documentées, sans réduire les systèmes d’IA à un score unique ni à un classement.
+Campagnes de mesure comparatives réalisées dans des conditions d’observation communes ou documentées, sans réduire les systèmes d’IA à un score unique ou à un classement.
 
 ### [Explorer le cadre des stations distribuées →](https://github.com/neomundi-io/neomundi-distributed-stations)
 
-Cadre expérimental de gouvernance, de gestion des données et de contribution pour les stations internationales de mesure et de recherche appliquée NeoMundi.
+Cadre expérimental de gouvernance, de gestion des données et de contribution pour les stations internationales distribuées de mesure et de recherche appliquée de NeoMundi.
+
+---
+
+## Validation métrologique
+
+La méthodologie, la calibration, la reproductibilité et les éléments de preuve soutenant les signaux de mesure NeoMundi sont documentés dans le repository [**NeoMundi Metrology Validation**](https://github.com/neomundi-io/neomundi-metrology-validation).
+
+Ce repository documente la qualification expérimentale progressive de la couche de mesure : ce que les signaux observent, comment ils sont testés, où ils échouent, comment ils se comparent à des références indépendantes et quelles affirmations les preuves disponibles permettent de soutenir.
+
+> **L’Observatoire produit des observations. Metrology Validation qualifie la mesure.**
+
+---
 
 ---
 
