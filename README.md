@@ -48,6 +48,18 @@ Experimental governance, data stewardship and contribution framework for NeoMund
 
 ---
 
+## Measurement validation
+
+The methodology, calibration, reproducibility and evidence supporting NeoMundi measurement signals are documented in the [**NeoMundi Metrology Validation**](https://github.com/neomundi-io/neomundi-metrology-validation) repository.
+
+This repository documents the progressive experimental qualification of the measurement layer: what the signals observe, how they are tested, where they fail, how they compare with independent references, and which claims the available evidence can support.
+
+> **Observation produces evidence. Metrology Validation qualifies the measurement.**
+
+---
+
+---
+
 ### Infrastructure support
 
 The NeoMundi AI Observatory is supported by sovereign infrastructure partners, including Infomaniak.
