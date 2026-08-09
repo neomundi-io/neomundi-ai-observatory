@@ -32,7 +32,7 @@ Son objectif est de produire des mesures, des traces, des méthodes et des élé
 
 ## Explorer l’Observatoire
 
-L’Observatoire opère actuellement deux programmes publics de mesure récurrents.
+L’Observatoire opère actuellement des programmes publics de mesure récurrents et documente des articulations expérimentales autour des signaux de mesure runtime NeoMundi.
 
 ### [Voir le Baromètre hebdomadaire des IA →](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
 
@@ -45,6 +45,10 @@ Campagnes de mesure comparatives réalisées dans des conditions d’observation
 ### [Explorer le cadre des stations distribuées →](https://github.com/neomundi-io/neomundi-distributed-stations)
 
 Cadre expérimental de gouvernance, de gestion des données et de contribution pour les stations internationales distribuées de mesure et de recherche appliquée de NeoMundi.
+
+### [Explorer les cas d’usage documentés →](https://github.com/neomundi-io/neomundi-use-cases)
+
+Pilotes documentés, expérimentations d’interopérabilité et articulations opérationnelles montrant comment des systèmes indépendants peuvent consommer les signaux de mesure runtime NeoMundi tout en conservant leur propre architecture et leur autorité.
 
 ---
 
