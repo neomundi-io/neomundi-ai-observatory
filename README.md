@@ -32,7 +32,7 @@ Its purpose is to produce measurements, traces, methods and public evidence that
 
 ## Explore the Observatory
 
-The Observatory currently operates two recurring public measurement programmes.
+The Observatory currently operates recurring public measurement programmes and documents experimental articulations around NeoMundi runtime measurement signals.
 
 ### [View the Weekly AI Barometer →](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
 
@@ -45,6 +45,10 @@ Comparative measurement campaigns across shared or documented observation condit
 ### [Explore the Distributed Stations Framework →](https://github.com/neomundi-io/neomundi-distributed-stations)
 
 Experimental governance, data stewardship and contribution framework for NeoMundi’s distributed international measurement and applied-research stations.
+
+### [Explore Documented Use Cases →](https://github.com/neomundi-io/neomundi-use-cases)
+
+Documented pilots, interoperability experiments and operational articulations showing how independent systems can consume NeoMundi runtime measurement signals while retaining their own architecture and authority.
 
 ---
 
