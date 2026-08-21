@@ -34,6 +34,10 @@ Son objectif est de produire des mesures, des traces, des méthodes et des élé
 
 L’Observatoire opère actuellement des programmes publics de mesure récurrents et documente des articulations expérimentales autour des signaux de mesure runtime NeoMundi.
 
+### [Voir la Météo des IA →](https://weather.controltowerai.io)
+
+Observation quotidienne du comportement d’un panel fixe de systèmes d’IA soumis aux mêmes questions, avec un signal synthétique de niveau d’attention et une question du jour traduite dans plusieurs langues.
+
 ### [Voir le Baromètre hebdomadaire des IA →](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
 
 Suivi longitudinal de la stabilité, de la variation sémantique, des signaux de risque factuel, de la couverture de mesure et de la dérive comportementale au fil de périodes d’observation répétées.
