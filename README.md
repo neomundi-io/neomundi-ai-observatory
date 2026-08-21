@@ -34,6 +34,10 @@ Its purpose is to produce measurements, traces, methods and public evidence that
 
 The Observatory currently operates recurring public measurement programmes and documents experimental articulations around NeoMundi runtime measurement signals.
 
+### [Explore NeoMundi AI Weather →](https://github.com/neomundi-io/neomundi-ai-weather)
+
+Daily observation of the behaviour of a fixed panel of AI systems exposed to the same questions, with a synthetic attention-level signal and a Question of the Day translated into multiple languages.
+
 ### [View the Weekly AI Barometer →](https://github.com/neomundi-io/NeoMundi-Weekly-Barometer)
 
 Longitudinal monitoring of stability, semantic variation, factual-risk signals, measurement coverage and behavioural drift across repeated observation periods.
