@@ -34,7 +34,7 @@ Son objectif est de produire des mesures, des traces, des méthodes et des élé
 
 L’Observatoire opère actuellement des programmes publics de mesure récurrents et documente des articulations expérimentales autour des signaux de mesure runtime NeoMundi.
 
-### [Voir la Météo des IA →](https://weather.controltowerai.io)
+### [Explorer NeoMundi AI Weather →](https://github.com/neomundi-io/neomundi-ai-weather)
 
 Observation quotidienne du comportement d’un panel fixe de systèmes d’IA soumis aux mêmes questions, avec un signal synthétique de niveau d’attention et une question du jour traduite dans plusieurs langues.
 
