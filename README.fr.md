@@ -66,6 +66,21 @@ Ce repository documente la qualification expérimentale progressive de la couche
 
 ---
 
+## Protocole d’exécution partagé et stochasticité
+
+Le **Baromètre hebdomadaire des IA** et la **Cartographie du comportement des IA** de NeoMundi reposent sur un protocole d’exécution commun conçu pour permettre des observations répétées et longitudinales.
+
+Les mêmes runners `.ps1` sont réutilisés sans modification entre les campagnes, sauf indication explicite contraire. Les identifiants de modèles sont maintenus fixes lorsque cela est techniquement possible.
+
+NeoMundi n’impose pas de seed aléatoire explicite et ne force pas la température lorsque la valeur par défaut du fournisseur est utilisée. La stochasticité de génération suit donc le comportement natif du fournisseur.
+
+Un runner, un prompt et un identifiant de modèle inchangés ne garantissent cependant pas que l’environnement d’exécution côté fournisseur reste strictement identique dans le temps. Des modifications du snapshot du modèle, de l’infrastructure de serving, du routage, de paramètres internes ou des valeurs par défaut peuvent contribuer aux variations observées.
+
+NeoMundi distingue donc **détection et attribution** : une différence mesurée établit un changement comportemental observé dans des conditions d’accès documentées, mais ne permet pas, à elle seule, d’en identifier la cause sous-jacente.
+
+**NeoMundi observe le changement. L’attribution causale nécessite des éléments de preuve supplémentaires.**
+
+
 ---
 
 ### Soutien infrastructure
