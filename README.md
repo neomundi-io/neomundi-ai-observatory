@@ -1,4 +1,6 @@
-[🇬🇧 English](./README.md) · [🇫🇷 Français](./README_FR.md)
+> **Explore Evidence:** [pilots, Observatory work, methods and historical sources](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.md). This repository retains its original artifacts and scope. Future Station results will be identified separately.
+
+[🇬🇧 English](./README.md) · [🇫🇷 Français](./README.fr.md)
 
 ---
 
