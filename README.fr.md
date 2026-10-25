@@ -1,4 +1,6 @@
-[🇬🇧 English](./README.md) · [🇫🇷 Français](./README_FR.md)
+> **Explorer les preuves :** [pilotes, Observatoire, méthodes et travaux historiques](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.fr.md). Ce dépôt conserve ses pièces et son périmètre d'origine. Les futurs résultats Station seront distingués de ces travaux.
+
+[🇬🇧 English](./README.md) · [🇫🇷 Français](./README.fr.md)
 
 ---
 
