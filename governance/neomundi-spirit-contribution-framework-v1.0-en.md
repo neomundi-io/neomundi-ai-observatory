@@ -218,7 +218,6 @@ The version that prevails in the event of divergence between multiple translatio
 
 ## 12. External Reference
 
-This framework is inspired in particular by the Governance Participation Discipline v0.1 and the Collaborative Participation Framework v0.1 published by James Aull / MagicianzCardstock LLC, member of the orientation and vigilance committee and contributor to NeoMundi Recherche.
 
 This reference is used as an external safeguard on matters of contribution, attribution, non-extraction, and limits of authority.
 
