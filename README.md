@@ -424,9 +424,7 @@ The Observatory is designed to encourage:
 
 ## External governance reference
 
-The NeoMundi contribution framework was inspired in part by the Governance Participation Discipline v0.1 and the Collaborative Participation Framework v0.1 published by James Aull / MagicianzCardstock LLC.
 
-[Governance Participation Discipline](https://github.com/magicianzcardstockllc/governance-participation-discipline)
 
 This external reference provides a useful guardrail concerning contribution, attribution, non-extraction and limits of authority.
 

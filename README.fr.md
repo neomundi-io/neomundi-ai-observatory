@@ -352,9 +352,7 @@ L’Observatoire est conçu pour encourager :
 
 ## Référence externe de gouvernance
 
-Le cadre de contribution NeoMundi s’inspire en partie de la Governance Participation Discipline v0.1 et du Collaborative Participation Framework v0.1 publiés par James Aull / MagicianzCardstock LLC.
 
-[Governance Participation Discipline](https://github.com/magicianzcardstockllc/governance-participation-discipline)
 
 Cette référence externe constitue un garde-fou utile en matière de contribution, d’attribution, de non-extraction et de limites d’autorité.
 

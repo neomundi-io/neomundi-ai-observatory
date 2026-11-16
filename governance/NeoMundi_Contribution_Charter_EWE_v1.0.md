@@ -146,7 +146,6 @@ Miedi be yeakpɔ dɔwɔlawo, kpekpeɖenuwo kple dɔwɔnu kpɔkpɔa ta. Gake mied
 
 ## 10. Agbalẽfianu siwo Kpe Ɖe Ŋuwu
 
-Ðoɖo sia tso dɔwɔɖoɖo siwo nye Governance Participation Discipline v0.1 kple Collaborative Participation Framework v0.1 si James Aull kple MagicianzCardstock LLC ta la me.
 
 Agbalẽfianu siawo nye mɔfiame kple kpɔkplɔ na hadɔwɔwɔ, dɔwɔwɔ ŋkɔdodo, mɔnu siwo xe mɔ na amebuba dzi ɖuɖu, kple ŋusẽ ƒe seɖoƒe ŋuti biabiawo.
 

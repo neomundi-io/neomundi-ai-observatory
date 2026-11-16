@@ -218,7 +218,6 @@ Version qui prévaut en cas de divergence entre plusieurs traductions.
 
 ## 12. Référence externe
 
-Ce cadre s’inspire notamment du Governance Participation Discipline v0.1 et du Collaborative Participation Framework v0.1 publiés par James Aull / MagicianzCardstock LLC, membre du comité d’orientation et de vigilance et contributeur de NeoMundi Recherche.
 
 Cette référence est utilisée comme garde-fou externe sur les questions de contribution, attribution, non-extraction et limites d’autorité.
 

@@ -240,7 +240,6 @@
 
 ## 12. المرجع الخارجي
 
-يستوحي هذا الإطار بشكل خاص من Governance Participation Discipline v0.1 وCollaborative Participation Framework v0.1 المنشورَين من قِبَل James Aull / MagicianzCardstock LLC، عضو لجنة التوجيه والرقابة ومساهم في NeoMundi Recherche.
 
 يُستخدَم هذا المرجع كحارس خارجي بشأن مسائل المساهمة والنسب وعدم الاستخراج وحدود الصلاحية.
 
