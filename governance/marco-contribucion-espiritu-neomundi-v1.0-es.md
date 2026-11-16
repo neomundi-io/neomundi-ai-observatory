@@ -218,7 +218,6 @@ Versión que prevalece en caso de divergencia entre varias traducciones.
 
 ## 12. Referencia externa
 
-Este marco se inspira en particular en Governance Participation Discipline v0.1 y Collaborative Participation Framework v0.1, publicados por James Aull / MagicianzCardstock LLC, miembro del comité de orientación y vigilancia y contribuyente de NeoMundi Recherche.
 
 Esta referencia se utiliza como salvaguarda externa sobre cuestiones de contribución, atribución, no extracción y límites de autoridad.
 
