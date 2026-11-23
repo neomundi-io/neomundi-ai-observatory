@@ -10,9 +10,13 @@
 
 ![Research](https://img.shields.io/badge/focus-longitudinal%20observation-64748b?style=flat-square) [![Licence](https://img.shields.io/badge/licence-Apache--2.0-0f766e?style=flat-square)](LICENSE) [![Evidence](https://img.shields.io/badge/records-public%20evidence-2563eb?style=flat-square)](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.md)
 
+**[NeoMundi Observatory](https://neomundi.org/)** · **[Live observation Station](https://station.neomundi.org/)**
+
 **[Explore the programmes](#explore-the-observatory)** · **[Measurement validation](#measurement-validation)** · **[Documented use cases](https://github.com/neomundi-io/neomundi-use-cases)**
 
 </div>
+
+> **Programme update — observation resumed.** The Observatory's observation programme was interrupted **27 September–18 October 2026** for calibration. The programme has resumed and continuous observation campaigns are being restarted. Explore the [Observatory](https://neomundi.org/) and the [Station](https://station.neomundi.org/) for the public programme and published observations.
 
 ---
 
