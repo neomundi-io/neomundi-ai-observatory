@@ -8,7 +8,7 @@
 
 [![English](https://img.shields.io/badge/EN-English-2563eb?style=flat-square)](README.md) · [![Français](https://img.shields.io/badge/FR-Fran%C3%A7ais-2563eb?style=flat-square)](README.fr.md)
 
-![Research](https://img.shields.io/badge/focus-longitudinal%20observation-64748b?style=flat-square) [![Licence](https://img.shields.io/badge/licence-Apache--2.0-0f766e?style=flat-square)](LICENSE) [![Evidence](https://img.shields.io/badge/records-public%20evidence-2563eb?style=flat-square)](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.md)
+[![Research](https://img.shields.io/badge/focus-longitudinal%20observation-64748b?style=flat-square)](#measuring-ai-behaviour-over-time) [![Licence](https://img.shields.io/badge/licence-Apache--2.0-0f766e?style=flat-square)](LICENSE) [![Evidence](https://img.shields.io/badge/records-public%20evidence-2563eb?style=flat-square)](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.md)
 
 **[NeoMundi Observatory](https://neomundi.org/)** · **[Live observation Station](https://station.neomundi.org/)**
 
