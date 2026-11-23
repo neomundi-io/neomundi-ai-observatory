@@ -1,10 +1,34 @@
-> **Explorer les preuves :** [pilotes, Observatoire, méthodes et travaux historiques](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.fr.md). Ce dépôt conserve ses pièces et son périmètre d'origine. Les futurs résultats Station seront distingués de ces travaux.
+<div align="center">
 
-[🇬🇧 English](./README.md) · [🇫🇷 Français](./README.fr.md)
+# Observatoire des IA NeoMundi
+
+### Les IA changent. Continuons à les observer.
+
+**Observer les comportements dans le temps. Comparer les conditions. Examiner les preuves.**
+
+[![Français](https://img.shields.io/badge/FR-Fran%C3%A7ais-2563eb?style=flat-square)](README.fr.md) · [![English](https://img.shields.io/badge/EN-English-2563eb?style=flat-square)](README.md)
+
+![Recherche](https://img.shields.io/badge/recherche-observation%20longitudinale-64748b?style=flat-square) [![Licence](https://img.shields.io/badge/licence-Apache--2.0-0f766e?style=flat-square)](LICENSE) [![Preuves](https://img.shields.io/badge/donn%C3%A9es-preuves%20publiques-2563eb?style=flat-square)](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.fr.md)
+
+**[Explorer les programmes](#explorer-lobservatoire)** · **[Validation métrologique](#validation-métrologique)** · **[Cas d'usage documentés](https://github.com/neomundi-io/neomundi-use-cases)**
+
+</div>
 
 ---
 
-# Observatoire des IA NeoMundi
+## Des observations répétées aux preuves examinables
+
+```mermaid
+flowchart LR
+    A["Questions et conditions<br/>contrôlées"] --> B["Observations IA<br/>répétées"]
+    B --> C["Signaux mesurés<br/>et couverture"]
+    C --> D["Enregistrements versionnés<br/>et méthodes publiques"]
+    D --> E["Revue indépendante<br/>et comparaison"]
+```
+
+**L'Observatoire documente les comportements. Un signal isolé ne constitue pas un verdict universel.**
+
+> **Explorer les preuves :** [pilotes, Observatoire, méthodes et travaux historiques](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.fr.md). Ce dépôt conserve ses pièces et son périmètre d'origine. Les futurs résultats Station seront distingués de ces travaux.
 
 ## Mesurer le comportement des IA dans le temps
 
