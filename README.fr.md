@@ -10,9 +10,13 @@
 
 ![Recherche](https://img.shields.io/badge/recherche-observation%20longitudinale-64748b?style=flat-square) [![Licence](https://img.shields.io/badge/licence-Apache--2.0-0f766e?style=flat-square)](LICENSE) [![Preuves](https://img.shields.io/badge/donn%C3%A9es-preuves%20publiques-2563eb?style=flat-square)](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.fr.md)
 
+**[Observatoire NeoMundi](https://neomundi.org/)** · **[Station d'observation](https://station.neomundi.org/)**
+
 **[Explorer les programmes](#explorer-lobservatoire)** · **[Validation métrologique](#validation-métrologique)** · **[Cas d'usage documentés](https://github.com/neomundi-io/neomundi-use-cases)**
 
 </div>
+
+> **Actualité du programme — reprise des observations.** Le programme d'observation de l'Observatoire a connu une interruption **du 27 septembre au 18 octobre 2026** pour calibration. Le programme reprend et les campagnes d'observation continue sont relancées. Retrouvez le programme public sur [NeoMundi.org](https://neomundi.org/) et les observations publiées sur la [Station](https://station.neomundi.org/).
 
 ---
 
