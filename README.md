@@ -1,10 +1,34 @@
-> **Explore Evidence:** [pilots, Observatory work, methods and historical sources](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.md). This repository retains its original artifacts and scope. Future Station results will be identified separately.
+<div align="center">
 
-[🇬🇧 English](./README.md) · [🇫🇷 Français](./README.fr.md)
+# NeoMundi AI Observatory
+
+### AI changes. Keep observing.
+
+**Observe behavior over time. Compare the conditions. Examine the evidence.**
+
+[![English](https://img.shields.io/badge/EN-English-2563eb?style=flat-square)](README.md) · [![Français](https://img.shields.io/badge/FR-Fran%C3%A7ais-2563eb?style=flat-square)](README.fr.md)
+
+![Research](https://img.shields.io/badge/focus-longitudinal%20observation-64748b?style=flat-square) [![Licence](https://img.shields.io/badge/licence-Apache--2.0-0f766e?style=flat-square)](LICENSE) [![Evidence](https://img.shields.io/badge/records-public%20evidence-2563eb?style=flat-square)](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.md)
+
+**[Explore the programmes](#explore-the-observatory)** · **[Measurement validation](#measurement-validation)** · **[Documented use cases](https://github.com/neomundi-io/neomundi-use-cases)**
+
+</div>
 
 ---
 
-# NeoMundi AI Observatory
+## From repeated observations to inspectable evidence
+
+```mermaid
+flowchart LR
+    A["Controlled questions<br/>and conditions"] --> B["Repeated AI<br/>observations"]
+    B --> C["Measured signals<br/>and coverage"]
+    C --> D["Versioned records<br/>and public methods"]
+    D --> E["Independent review<br/>and comparison"]
+```
+
+**The Observatory documents behaviour. It does not turn one signal into a universal verdict.**
+
+> **Explore the evidence:** [pilots, Observatory work, methods and historical sources](https://github.com/neomundi-io/neomundi-station-public/blob/main/EVIDENCE.md). This repository retains its original artifacts and scope. Future Station results will be identified separately.
 
 ## Measuring AI behaviour over time
 
